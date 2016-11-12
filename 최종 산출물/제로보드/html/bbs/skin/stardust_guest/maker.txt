@@ -1,0 +1,1 @@
+<a href=http://kimamore.com  target=_blank  onfocus='this.blur()'><font style="font-family:verdana;font-size:7pt;">kima</font></a>, <a href="http://x0101.ivyro.net/" target="_blank"><font style=font-family:tahoma;font-size:7pt;>jenny</font></a>
